@@ -25,6 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto é destinado à divulgação do Filme Super Mario Bros.
+Projeto do jogo Flappy Bird.
 
 - [Visite o projeto online](https://brunanasser.github.io/flappy-bird)
